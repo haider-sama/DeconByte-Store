@@ -8,6 +8,7 @@ Built with the NEXT.js 14, tRPC, TypeScript & Tailwind CSS.
 
 - 🛠️ Complete marketplace built from scratch in Next.js 14
 - 💻 Modern Landing Page & Product pages included.
+- ✅ Persistent shopping cart.
 - 💳 Full admin dashboard.
 - 💳 Admin Summary.
 - 🛍️ User Authentication.
