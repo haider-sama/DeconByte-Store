@@ -2,7 +2,7 @@
 
 Built with the NEXT.js 14, tRPC, TypeScript & Tailwind CSS.
 
-![Project Image](https://github.com/haider-sama/FlashCommerce/blob/main/public/thumbnail.png)
+![Project Image](https://github.com/haider-sama/DeconByte-Store/blob/main/public/thumbnail.png)
 
 ## Features
 
