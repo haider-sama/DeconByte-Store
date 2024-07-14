@@ -1,4 +1,3 @@
-import Hero from "./components/Hero/Hero";
 import Container from "./components/Container";
 import { ProductCart } from "./components/products/ProductCard";
 import getProducts, { getProductParams }  from "@/actions/getProducts";
@@ -31,7 +30,6 @@ export default async function Home({searchParams} : HomeProps) {
     <div className="p-8">
       <Container>
         <div>
-          <Hero />
           <div className="grid grid-cols-2 sm:grid-cols-3
           lg:grid-cols-6 xl:grid-cols-5 2xl:grid-cols-6 gap-8">
             {shuffledProducts.map((product: any) => {
