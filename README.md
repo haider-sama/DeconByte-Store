@@ -15,6 +15,7 @@ Built with the NEXT.js 14, tRPC, TypeScript & Tailwind CSS.
 - 🌟 Clean, modern UI using TailwindCSS..
 - ✅ Admins can add products to ensure high quality.
 - ✅ Users can add reviews and comments.
+- ✅ Product Filtering System.
 - ✅ SearchBar that works!
 - ⌨️ Written 100% in TypeScript.
 and much more.
