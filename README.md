@@ -1,6 +1,6 @@
 # DeconByte Store - Fullstack Game Store E-Commerce Marketplace
 
-Built with the NEXT.js 14, tRPC, TypeScript & Tailwind CSS.
+Built with the NEXT.js 14, TypeScript & Tailwind CSS.
 
 ![Project Image](https://github.com/haider-sama/DeconByte-Store/blob/main/public/thumbnail.png)
 
